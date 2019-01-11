@@ -1,4 +1,4 @@
-﻿# Created by https://www.gitignore.io/api/java,macos,windows,eclipse,intellij
+# Created by https://www.gitignore.io/api/java,macos,windows,eclipse,intellij
 # Edit at https://www.gitignore.io/?templates=java,macos,windows,eclipse,intellij
 
 ### Eclipse ###
@@ -229,3 +229,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/java,macos,windows,eclipse,intellij
+test.txt
